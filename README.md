@@ -1,4 +1,4 @@
-# Encurtador de URL - Spring Boot 
+# Encurtador de URL 
 
 Este é um simples encurtador de URL desenvolvido utilizando Java, Spring Boot e banco de dados em memória H2. O projeto permite que você envie uma URL longa e receba uma versão encurtada dela, além de poder redirecionar para a URL original usando o código encurtado.
 
