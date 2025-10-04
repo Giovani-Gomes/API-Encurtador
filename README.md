@@ -9,7 +9,7 @@ Este é um simples encurtador de URL desenvolvido utilizando Java, Spring Boot e
 
 ## Tecnologias Utilizadas
 
-- **Java 17** (ou superior)
+- **Java 17** 
 - **Spring Boot** (para construção da API)
 - **H2 Database** (para armazenar as URLs originais e encurtadas)
 - **Maven** (para gerenciamento de dependências)
